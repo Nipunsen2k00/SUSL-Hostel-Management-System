@@ -21,7 +21,7 @@ session_start();
 			window.scrollTo(0, 1);
 		}
 	</script>
-	<!--// Meta tag Keywords -->
+	->
 
 	<link href="web_home/css_home/slider.css" type="text/css" rel="stylesheet" media="all">
 
