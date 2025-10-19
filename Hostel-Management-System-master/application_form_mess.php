@@ -8,7 +8,7 @@ if(!isset($_SESSION['roll']) || !isset($_SESSION['fname']) || !isset($_SESSION['
     exit();
 }
 
-// Fetch mess name from DB based on URL id
+
 $mess_id = intval($_GET['id']); // make sure it's an integer
 $messQuery = "SELECT * FROM Mess WHERE Mess_id = $mess_id";
 $messResult = mysqli_query($conn, $messQuery);
