@@ -33,7 +33,7 @@ session_start();
 
 	<!-- testimonials css -->
 	<link rel="stylesheet" href="web_home/css_home/flexslider.css" type="text/css" media="screen" property="" /><!-- flexslider css -->
-	<!-- //testimonials css -->
+	
 
 	<!-- web-fonts -->
 	<link href="//fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic,latin-ext" rel="stylesheet">
