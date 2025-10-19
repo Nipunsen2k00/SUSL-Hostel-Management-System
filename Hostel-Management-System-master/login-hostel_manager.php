@@ -13,7 +13,7 @@
     
     <!-- custom style sheet -->
     <link href="web/css/style.css" rel="stylesheet" type="text/css" />
-    <!-- /custom style sheet -->
+   
     <!-- fontawesome css -->
     <link href="web/css/fontawesome-all.css" rel="stylesheet" />
     <!-- /fontawesome css -->
