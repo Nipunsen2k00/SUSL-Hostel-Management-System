@@ -43,7 +43,7 @@ session_start();
 
 <body>
 
-<!-- banner -->
+
 	<div class="banner" id="home">
 		<div class="cd-radial-slider-wrapper">
 
