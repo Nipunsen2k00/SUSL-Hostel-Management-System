@@ -45,10 +45,7 @@
                     <input type="password" class="form-control" name="pwd" placeholder="Password" required="required" />
                 </div>
             </div>
-            <!--<div class="forgot">
-                <a href="#">Forgot Password?</a>
-                <p><input type="checkbox">Remember Me</p>
-            </div>-->
+            
             <button type="submit" name="login-submit">Login</button>
         </form>
           <p class=" w3l-register-p">Login as<a href="index.php" class="register"> Student</a></p>
