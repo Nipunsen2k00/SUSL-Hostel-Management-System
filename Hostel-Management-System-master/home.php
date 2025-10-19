@@ -93,7 +93,7 @@ session_start();
 		</nav>
 	</div>
 </header>
-<!--Header-->
+
 
 			<ul class="cd-radial-slider" data-radius1="60" data-radius2="1364" data-centerx1="110" data-centerx2="1290">
 				<li class="visible">
