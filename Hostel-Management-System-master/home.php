@@ -47,7 +47,7 @@ session_start();
 	<div class="banner" id="home">
 		<div class="cd-radial-slider-wrapper">
 
-<!--Header-->
+
 <header>
 	<div class="container agile-banner_nav">
 		<nav class="navbar navbar-expand-lg navbar-light bg-light">
